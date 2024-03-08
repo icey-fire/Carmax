@@ -1,0 +1,63 @@
+{
+    "Compact": [
+        "Honda Civic",
+        "Honda CR-Z",
+        "Kia Forte Koup",
+        "Mini Cooper",
+        "Nissan 370Z",
+        "Nissan Z",
+        "Scion FR-S",
+        "Scion tC",
+        "Smart Fortwo",
+        "Subaru BRZ",
+        "Toyota 86 (before 2021)",
+        "Toyota GR86"
+    ],
+    "Luxury": [
+        "Audi A5",
+        "Audi TTS",
+        "BMW 128",
+        "BMW 228",
+        "BMW 230",
+        "BMW 428",
+        "BMW 430",
+        "BMW 435",
+        "BMW 440",
+        "BMW 640",
+        "BMW 650",
+        "BMW 840",
+        "Cadillac ATS",
+        "Cadillac CTS",
+        "Cadillac ELR",
+        "Hyundai Genesis",
+        "Infiniti Q60",
+        "Jaguar F-Type",
+        "Jaguar XK",
+        "Lexus RC 200t",
+        "Lexus RC 300",
+        "Mercedes-Benz C300",
+        "Mercedes-Benz CL550",
+        "Mercedes-Benz CL600",
+        "Porsche 718 Cayman",
+        "Porsche Cayman (before 2017)"
+    ],
+    "Mainstream": [
+        "Chevrolet Camaro",
+        "Dodge Challenger",
+        "Ford Mustang",
+        "Honda Accord"
+    ],
+    "Performance": [
+        "Audi RS5",
+        "Audi S5",
+        "BMW M235",
+        "BMW M240",
+        "BMW M4",
+        "BMW M440",
+        "BMW M8",
+        "BMW M850",
+        "Chevrolet Corvette",
+        "Lexus RC F",
+        "Toyota Supra"
+    ]
+}

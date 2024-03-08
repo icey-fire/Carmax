@@ -1,0 +1,39 @@
+{
+    "Compact": [
+        "Chevrolet Cruze",
+        "Dodge Caliber",
+        "Ford Focus",
+        "Honda Civic",
+        "Hyundai Elantra",
+        "Hyundai Veloster",
+        "Kia Forte5",
+        "Kia Niro",
+        "Kia Soul",
+        "Mazda Mazda3",
+        "Nissan Cube",
+        "Scion iM",
+        "Scion xB",
+        "Subaru Impreza",
+        "Toyota Corolla Hatchback",
+        "Toyota GR Corolla",
+        "Toyota Matrix",
+        "Volkswagen Golf",
+        "Volkswagen GTI"
+    ],
+    "Subcompact": [
+        "Chevrolet Spark",
+        "Fiat 500",
+        "Honda Fit",
+        "Hyundai Accent",
+        "Kia Rio5",
+        "Mazda Mazda2",
+        "Mini Cooper Clubman",
+        "Mini Cooper Hardtop",
+        "Mitsubishi Mirage",
+        "Nissan Versa Note",
+        "Scion iQ",
+        "Scion XD",
+        "Toyota Yaris",
+        "Volvo C30"
+    ]
+}

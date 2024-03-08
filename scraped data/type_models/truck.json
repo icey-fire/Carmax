@@ -1,0 +1,33 @@
+{
+    "Compact": [
+        "Chevrolet Colorado",
+        "Ford Ranger",
+        "GMC Canyon",
+        "Honda Ridgeline",
+        "Hyundai Santa Cruz",
+        "Jeep Gladiator",
+        "Nissan Frontier",
+        "Rivian R1T (electric)",
+        "Toyota Tacoma"
+    ],
+    "Full-size": [
+        "Chevrolet Avalanche",
+        "Chevrolet Silverado 1500",
+        "Ford F-150 Lightning (electric)",
+        "Ford F150",
+        "GMC Hummer Pickup (electric)",
+        "GMC Sierra 1500",
+        "Nissan Titan",
+        "Ram 1500",
+        "Ram 1500 Classic",
+        "Toyota Tundra",
+        "Chevrolet Silverado 2500",
+        "Chevrolet Silverado 3500",
+        "Ford F250",
+        "GMC Sierra 2500",
+        "GMC Sierra 3500",
+        "Nissan Titan XD",
+        "Ram 2500",
+        "Ram 3500"
+    ]
+}

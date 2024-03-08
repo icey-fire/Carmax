@@ -1,0 +1,43 @@
+{
+    "Minivans": [
+        "Chrysler Pacifica",
+        "Chrysler Pacifica Hybrid",
+        "Chrysler Town and Country",
+        "Chrysler Voyager",
+        "Dodge Grand Caravan",
+        "Honda Odyssey",
+        "Kia Carnival",
+        "Kia Sedona",
+        "Mazda Mazda5",
+        "Nissan Quest",
+        "Toyota Sienna",
+        "Toyota Sienna Hybrid",
+        "Volkswagen Routan"
+    ],
+    "Vans": [
+        "Chevrolet City Express",
+        "Ford Transit Connect",
+        "Mercedes-Benz Metris",
+        "Nissan NV 200",
+        "Ram Promaster City",
+        "Chevrolet Express 1500",
+        "Chevrolet Express 2500",
+        "Chevrolet Express 3500",
+        "Ford E-350",
+        "Ford Transit 150",
+        "Ford Transit 250",
+        "Ford Transit 350",
+        "GMC Savana 1500",
+        "GMC Savana 2500",
+        "GMC Savana 3500",
+        "Mercedes-Benz Sprinter 1500",
+        "Mercedes-Benz Sprinter 2500",
+        "Mercedes-Benz Sprinter 3500",
+        "Nissan NV 1500",
+        "Nissan NV 2500",
+        "Nissan NV 3500",
+        "Ram Promaster 1500",
+        "Ram Promaster 2500",
+        "Ram Promaster 3500"
+    ]
+}
