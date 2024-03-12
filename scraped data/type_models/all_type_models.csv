@@ -1,0 +1,807 @@
+body_subtype,make_model,body_type
+Convertibles,Audi A5,convertible
+Convertibles,Audi S5,convertible
+Convertibles,BMW 128,convertible
+Convertibles,BMW 228,convertible
+Convertibles,BMW 230,convertible
+Convertibles,BMW 428,convertible
+Convertibles,BMW 430,convertible
+Convertibles,BMW 435,convertible
+Convertibles,BMW 440,convertible
+Convertibles,BMW 640,convertible
+Convertibles,BMW 650,convertible
+Convertibles,BMW 840,convertible
+Convertibles,BMW M235,convertible
+Convertibles,BMW M240,convertible
+Convertibles,BMW M4,convertible
+Convertibles,BMW M440,convertible
+Convertibles,BMW M8,convertible
+Convertibles,BMW M850,convertible
+Convertibles,Buick Cascada,convertible
+Convertibles,Chevrolet Camaro,convertible
+Convertibles,Chrysler 200,convertible
+Convertibles,Ford Mustang,convertible
+Convertibles,Jaguar XK,convertible
+Convertibles,Lexus RC 350,convertible
+Convertibles,Lexus RC F,convertible
+Convertibles,Mercedes-Benz C300,convertible
+Convertibles,Mercedes-Benz E350,convertible
+Convertibles,Mercedes-Benz E400,convertible
+Convertibles,Mini Cooper,convertible
+Convertibles,Volkswagen Beetle,convertible
+Convertibles,Volkswagen Eos,convertible
+Convertibles,Volvo C70,convertible
+Roadsters (2 seaters),Audi TT,convertible
+Roadsters (2 seaters),Audi TTS,convertible
+Roadsters (2 seaters),BMW Z4,convertible
+Roadsters (2 seaters),Chevrolet Corvette,convertible
+Roadsters (2 seaters),Fiat 124 Spider,convertible
+Roadsters (2 seaters),Jaguar F-Type,convertible
+Roadsters (2 seaters),Mazda MX-5 Miata,convertible
+Roadsters (2 seaters),Mercedes-Benz SL400,convertible
+Roadsters (2 seaters),Mercedes-Benz SL450,convertible
+Roadsters (2 seaters),Mercedes-Benz SL55 AMG,convertible
+Roadsters (2 seaters),Mercedes-Benz SL550,convertible
+Roadsters (2 seaters),Mercedes-Benz SL63 AMG,convertible
+Roadsters (2 seaters),Mercedes-Benz SL65 AMG,convertible
+Roadsters (2 seaters),Mercedes-Benz SLC300,convertible
+Roadsters (2 seaters),Mercedes-Benz SLC43 AMG,convertible
+Roadsters (2 seaters),Mercedes-Benz SLK250,convertible
+Roadsters (2 seaters),Mercedes-Benz SLK300,convertible
+Roadsters (2 seaters),Mercedes-Benz SLK350,convertible
+Roadsters (2 seaters),Mercedes-Benz SLK55 AMG,convertible
+Roadsters (2 seaters),Nissan 370Z,convertible
+Roadsters (2 seaters),Porsche 718 Boxster,convertible
+Roadsters (2 seaters),Porsche 718 Spyder,convertible
+Roadsters (2 seaters),Porsche Boxster (before 2017),convertible
+Minivans,Chrysler Pacifica,van
+Minivans,Chrysler Pacifica Hybrid,van
+Minivans,Chrysler Town and Country,van
+Minivans,Chrysler Voyager,van
+Minivans,Dodge Grand Caravan,van
+Minivans,Honda Odyssey,van
+Minivans,Kia Carnival,van
+Minivans,Kia Sedona,van
+Minivans,Mazda Mazda5,van
+Minivans,Nissan Quest,van
+Minivans,Toyota Sienna,van
+Minivans,Toyota Sienna Hybrid,van
+Minivans,Volkswagen Routan,van
+Vans,Chevrolet City Express,van
+Vans,Ford Transit Connect,van
+Vans,Mercedes-Benz Metris,van
+Vans,Nissan NV 200,van
+Vans,Ram Promaster City,van
+Vans,Chevrolet Express 1500,van
+Vans,Chevrolet Express 2500,van
+Vans,Chevrolet Express 3500,van
+Vans,Ford E-350,van
+Vans,Ford Transit 150,van
+Vans,Ford Transit 250,van
+Vans,Ford Transit 350,van
+Vans,GMC Savana 1500,van
+Vans,GMC Savana 2500,van
+Vans,GMC Savana 3500,van
+Vans,Mercedes-Benz Sprinter 1500,van
+Vans,Mercedes-Benz Sprinter 2500,van
+Vans,Mercedes-Benz Sprinter 3500,van
+Vans,Nissan NV 1500,van
+Vans,Nissan NV 2500,van
+Vans,Nissan NV 3500,van
+Vans,Ram Promaster 1500,van
+Vans,Ram Promaster 2500,van
+Vans,Ram Promaster 3500,van
+Compact,Buick Envision,suv
+Compact,Chevrolet Captiva Sport,suv
+Compact,Chevrolet Equinox,suv
+Compact,Ford Bronco Sport,suv
+Compact,Ford Escape,suv
+Compact,Ford Escape Hybrid,suv
+Compact,Ford Escape Plug In Hybrid,suv
+Compact,Ford Mustang Mach-E (electric),suv
+Compact,GMC Terrain,suv
+Compact,Honda Accord CrossTour,suv
+Compact,Honda CR-V,suv
+Compact,Honda CR-V Hybrid,suv
+Compact,Hyundai Nexo,suv
+Compact,Hyundai Santa Fe Sport,suv
+Compact,Hyundai Tucson,suv
+Compact,Hyundai Tucson Fuel Cell,suv
+Compact,Hyundai Tucson Hybrid,suv
+Compact,Hyundai Tucson PHEV,suv
+Compact,Jeep Cherokee,suv
+Compact,Jeep Compass,suv
+Compact,Jeep Patriot,suv
+Compact,Kia Niro,suv
+Compact,Kia Sportage,suv
+Compact,Kia Sportage Hybrid,suv
+Compact,Kia Sportage PHEV,suv
+Compact,Mazda CX-5,suv
+Compact,Mazda CX-50,suv
+Compact,Mazda CX-7,suv
+Compact,Mazda MX-30 (electric),suv
+Compact,Nissan Ariya (electric),suv
+Compact,Nissan Rogue,suv
+Compact,Nissan Rogue Select,suv
+Compact,Subaru Forester,suv
+Compact,Subaru Outback,suv
+Compact,Subaru Solterra (electric),suv
+Compact,Toyota bZ4x (electric),suv
+Compact,Toyota Corolla Cross,suv
+Compact,Toyota Corolla Cross Hybrid,suv
+Compact,Toyota RAV4,suv
+Compact,Toyota RAV4 EV,suv
+Compact,Toyota RAV4 Hybrid,suv
+Compact,Toyota RAV4 Prime Plug-In,suv
+Compact,Toyota Venza,suv
+Compact,Toyota Venza Hybrid,suv
+Compact,Volkswagen ID.4 (electric),suv
+Compact,Volkswagen Tiguan,suv
+Compact,Volkswagen Tiguan Limited,suv
+Compact,Acura RDX,suv
+Compact,Alfa Romeo Stelvio,suv
+Compact,Audi Q3,suv
+Compact,Audi Q4 e-tron (electric),suv
+Compact,Audi Q4 e-tron Sportback (electric),suv
+Compact,Audi Q5,suv
+Compact,Audi Q5 Hybrid,suv
+Compact,Audi Q5 Plug-in Hybrid,suv
+Compact,Audi Q5 Sportback,suv
+Compact,Audi SQ5,suv
+Compact,Audi SQ5 Sportback,suv
+Compact,BMW X3,suv
+Compact,BMW X3 Plug In Hybrid,suv
+Compact,BMW X4,suv
+Compact,Cadillac SRX,suv
+Compact,Cadillac XT5,suv
+Compact,Genesis GV60 (electric),suv
+Compact,Genesis GV70,suv
+Compact,Infiniti EX35,suv
+Compact,Infiniti EX37,suv
+Compact,Infiniti QX50,suv
+Compact,Infiniti QX55,suv
+Compact,Jaguar E-Pace,suv
+Compact,Jaguar I-Pace (electric),suv
+Compact,Land Rover LR2,suv
+Compact,Land Rover Range Rover Evoque,suv
+Compact,Lexus NX 200t,suv
+Compact,Lexus NX 250,suv
+Compact,Lexus NX 300,suv
+Compact,Lexus NX 300h (hybrid),suv
+Compact,Lexus NX 350,suv
+Compact,Lexus NX 350h (hybrid),suv
+Compact,Lexus NX 450h+ (plug-in hybrid),suv
+Compact,Lexus RZ 450e (electric),suv
+Compact,Lincoln Corsair (available plug-in hybrid),suv
+Compact,Lincoln MKC,suv
+Compact,Mercedes-Benz EQE 500 (electric),suv
+Compact,Mercedes-Benz GLC300,suv
+Compact,Mercedes-Benz GLC300 Coupe,suv
+Compact,Mercedes-Benz GLC350E Plug In Hybrid,suv
+Compact,Mercedes-Benz GLC43 AMG,suv
+Compact,Mercedes-Benz GLC43 AMG Coupe,suv
+Compact,Mercedes-Benz GLC63 AMG,suv
+Compact,Mercedes-Benz GLC63 AMG Coupe,suv
+Compact,Mercedes-Benz GLK250,suv
+Compact,Mercedes-Benz GLK350,suv
+Compact,Porsche Macan,suv
+Compact,Tesla Model Y (electric),suv
+Compact,Volvo XC60,suv
+Compact,Volvo XC60 Plug-in Hybrid,suv
+Compact,Volvo XC60 Recharge (plug-in hybrid),suv
+Compact 7-passenger,Kia Sorento,suv
+Compact 7-passenger,Kia Sorento Hybrid,suv
+Compact 7-passenger,Kia Sorento Plug-In Hybrid,suv
+Compact 7-passenger,Mitsubishi Outlander,suv
+Compact 7-passenger,Mitsubishi Outlander Plug in Hybrid,suv
+Compact 7-passenger,Land Rover Discovery Sport,suv
+Full-size 7-passenger,Chevrolet Suburban 1500,suv
+Full-size 7-passenger,Chevrolet Tahoe,suv
+Full-size 7-passenger,Ford Expedition,suv
+Full-size 7-passenger,Ford Expedition EL,suv
+Full-size 7-passenger,Ford Expedition Max,suv
+Full-size 7-passenger,GMC Yukon,suv
+Full-size 7-passenger,GMC Yukon XL 1500,suv
+Full-size 7-passenger,Jeep Grand Wagoneer,suv
+Full-size 7-passenger,Jeep Grand Wagoneer L,suv
+Full-size 7-passenger,Jeep Wagoneer,suv
+Full-size 7-passenger,Jeep Wagoneer L,suv
+Full-size 7-passenger,Nissan Armada,suv
+Full-size 7-passenger,Toyota Grand Highlander,suv
+Full-size 7-passenger,Toyota Grand Highlander Hybrid,suv
+Full-size 7-passenger,Toyota Land Cruiser,suv
+Full-size 7-passenger,Toyota Sequoia,suv
+Full-size 7-passenger,Cadillac Escalade,suv
+Full-size 7-passenger,Infiniti QX56,suv
+Full-size 7-passenger,Infiniti QX80,suv
+Full-size 7-passenger,Lexus LX 570,suv
+Full-size 7-passenger,Lexus LX 600,suv
+Full-size 7-passenger,Lexus TX 350,suv
+Full-size 7-passenger,Lincoln Navigator,suv
+Full-size 7-passenger,Lincoln Navigator L,suv
+Mid-size 5- or 7-passenger,BMW X5,suv
+Mid-size 5- or 7-passenger,Lexus RX 350,suv
+Mid-size 5- or 7-passenger,Lexus RX 350h (hybrid),suv
+Mid-size 5- or 7-passenger,Lexus RX 450h (hybrid),suv
+Mid-size 5- or 7-passenger,Lexus RX 500h (hybrid),suv
+Mid-size 5- or 7-passenger,Tesla Model X (electric),suv
+Mid-size 5-passenger,Chevrolet Blazer,suv
+Mid-size 5-passenger,Ford Edge,suv
+Mid-size 5-passenger,Ford Explorer,suv
+Mid-size 5-passenger,Ford Explorer Hybrid,suv
+Mid-size 5-passenger,GMC HUMMER EV SUV,suv
+Mid-size 5-passenger,Honda Passport,suv
+Mid-size 5-passenger,Hyundai Ioniq 5 (electric),suv
+Mid-size 5-passenger,Hyundai Santa Fe,suv
+Mid-size 5-passenger,Hyundai Santa Fe Hybrid,suv
+Mid-size 5-passenger,Hyundai Santa Fe PHEV,suv
+Mid-size 5-passenger,Jeep Gr. Cherokee Trackhawk,suv
+Mid-size 5-passenger,Jeep Grand Cherokee,suv
+Mid-size 5-passenger,Jeep Grand Cherokee 4xe (plug-in hybrid),suv
+Mid-size 5-passenger,Kia EV6 (electric),suv
+Mid-size 5-passenger,Nissan Murano,suv
+Mid-size 5-passenger,Nissan Murano Cross Cabriolet,suv
+Mid-size 5-passenger,Volkswagen Atlas Cross Sport,suv
+Mid-size 5-passenger,Volkswagen Touareg,suv
+Mid-size 5-passenger,Volkswagen Touareg Hybrid,suv
+Mid-size 5-passenger,Acura ZDX,suv
+Mid-size 5-passenger,Audi e-tron (electric),suv
+Mid-size 5-passenger,Audi Q8,suv
+Mid-size 5-passenger,Audi Q8 e-tron (electric),suv
+Mid-size 5-passenger,Audi Q8 e-tron Sportback (electric),suv
+Mid-size 5-passenger,Audi RS Q8,suv
+Mid-size 5-passenger,Audi SQ8,suv
+Mid-size 5-passenger,Audi SQ8 e-tron Sportback (electric),suv
+Mid-size 5-passenger,BMW iX (electric),suv
+Mid-size 5-passenger,BMW X5 Plug In Hybrid,suv
+Mid-size 5-passenger,BMW X6,suv
+Mid-size 5-passenger,BMW XM,suv
+Mid-size 5-passenger,Cadillac Lyriq (electric),suv
+Mid-size 5-passenger,Infiniti FX35,suv
+Mid-size 5-passenger,Infiniti FX37,suv
+Mid-size 5-passenger,Infiniti FX50,suv
+Mid-size 5-passenger,Infiniti QX70,suv
+Mid-size 5-passenger,Jaguar F-Pace,suv
+Mid-size 5-passenger,Land Rover Range Rover,suv
+Mid-size 5-passenger,Land Rover Range Rover PH,suv
+Mid-size 5-passenger,Land Rover Range Rover Sport,suv
+Mid-size 5-passenger,Land Rover Range Rover Sport PH,suv
+Mid-size 5-passenger,Land Rover Range Rover Velar,suv
+Mid-size 5-passenger,Lincoln MKX,suv
+Mid-size 5-passenger,Lincoln Nautilus,suv
+Mid-size 5-passenger,Mercedes-Benz G55 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz G550,suv
+Mid-size 5-passenger,Mercedes-Benz G63 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz G65 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz GLE300d,suv
+Mid-size 5-passenger,Mercedes-Benz GLE350,suv
+Mid-size 5-passenger,Mercedes-Benz GLE400,suv
+Mid-size 5-passenger,Mercedes-Benz GLE43 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz GLE43 AMG Coupe,suv
+Mid-size 5-passenger,Mercedes-Benz GLE450,suv
+Mid-size 5-passenger,Mercedes-Benz GLE450 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz GLE53 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz GLE53 AMG COUPE,suv
+Mid-size 5-passenger,Mercedes-Benz GLE550e Plug In Hybrid,suv
+Mid-size 5-passenger,Mercedes-Benz GLE580,suv
+Mid-size 5-passenger,Mercedes-Benz GLE63 AMG,suv
+Mid-size 5-passenger,Mercedes-Benz GLE63 AMG Coupe,suv
+Mid-size 5-passenger,Mercedes-Benz Maybach GLS600,suv
+Mid-size 5-passenger,Mercedes-Benz ML250,suv
+Mid-size 5-passenger,Mercedes-Benz ML350,suv
+Mid-size 5-passenger,Mercedes-Benz ML400,suv
+Mid-size 5-passenger,Mercedes-Benz ML450H,suv
+Mid-size 5-passenger,Mercedes-Benz ML550,suv
+Mid-size 5-passenger,Mercedes-Benz ML63 AMG,suv
+Mid-size 5-passenger,Porsche Cayenne,suv
+Mid-size 5-passenger,Porsche Cayenne E- PHEV,suv
+Mid-size 5-passenger,Porsche Cayenne Hybrid,suv
+Mid-size 5-passenger,Ford Bronco,suv
+Mid-size 5-passenger,Jeep Wrangler,suv
+Mid-size 5-passenger,Jeep Wrangler 4xe (plug-in hybrid),suv
+Mid-size 5-passenger,Land Rover Defender,suv
+Mid-size 5-passenger,Nissan Xterra,suv
+Mid-size 5-passenger,Toyota 4Runner,suv
+Mid-size 5-passenger,Toyota FJ Cruiser,suv
+Mid-size 7-passenger,Buick Enclave,suv
+Mid-size 7-passenger,Chevrolet Traverse,suv
+Mid-size 7-passenger,Dodge Durango,suv
+Mid-size 7-passenger,Dodge Journey,suv
+Mid-size 7-passenger,Ford Flex,suv
+Mid-size 7-passenger,GMC Acadia,suv
+Mid-size 7-passenger,GMC Acadia Limited,suv
+Mid-size 7-passenger,Honda Pilot,suv
+Mid-size 7-passenger,Hyundai Palisade,suv
+Mid-size 7-passenger,Hyundai Santa Fe XL,suv
+Mid-size 7-passenger,Hyundai Veracruz,suv
+Mid-size 7-passenger,Jeep Grand Cherokee L,suv
+Mid-size 7-passenger,Kia Telluride,suv
+Mid-size 7-passenger,Mazda CX-9,suv
+Mid-size 7-passenger,Mazda CX-90,suv
+Mid-size 7-passenger,Mazda CX-90 (plug-in hybrid),suv
+Mid-size 7-passenger,Nissan Pathfinder,suv
+Mid-size 7-passenger,Nissan Pathfinder Hybrid,suv
+Mid-size 7-passenger,Subaru Ascent,suv
+Mid-size 7-passenger,Subaru Tribeca,suv
+Mid-size 7-passenger,Toyota Highlander,suv
+Mid-size 7-passenger,Toyota Highlander Hybrid,suv
+Mid-size 7-passenger,Volkswagen Atlas,suv
+Mid-size 7-passenger,Acura MDX,suv
+Mid-size 7-passenger,Acura MDX Sport Hybrid,suv
+Mid-size 7-passenger,Audi Q7,suv
+Mid-size 7-passenger,Audi SQ7,suv
+Mid-size 7-passenger,BMW X7,suv
+Mid-size 7-passenger,Cadillac XT6,suv
+Mid-size 7-passenger,Genesis GV80,suv
+Mid-size 7-passenger,Infiniti JX35,suv
+Mid-size 7-passenger,Infiniti QX60,suv
+Mid-size 7-passenger,Infiniti QX60 Hybrid,suv
+Mid-size 7-passenger,Land Rover Discovery,suv
+Mid-size 7-passenger,Land Rover LR4,suv
+Mid-size 7-passenger,Lexus GX 460,suv
+Mid-size 7-passenger,Lincoln Aviator (available plug-in hybrid),suv
+Mid-size 7-passenger,Lincoln MKT,suv
+Mid-size 7-passenger,Mercedes-Benz EQS 580 (electric,suv
+Mid-size 7-passenger,Mercedes-Benz GL350,suv
+Mid-size 7-passenger,Mercedes-Benz GL450,suv
+Mid-size 7-passenger,Mercedes-Benz GL550,suv
+Mid-size 7-passenger,Mercedes-Benz GL63 AMG,suv
+Mid-size 7-passenger,Mercedes-Benz GLS350d,suv
+Mid-size 7-passenger,Mercedes-Benz GLS450,suv
+Mid-size 7-passenger,Mercedes-Benz GLS550,suv
+Mid-size 7-passenger,Mercedes-Benz GLS580,suv
+Mid-size 7-passenger,Mercedes-Benz GLS63 AMG,suv
+Mid-size 7-passenger,Volvo XC90,suv
+Mid-size 7-passenger,Volvo XC90 Plug In Hybrid,suv
+Mid-size 7-passenger,Volvo XC90 Recharge (plug-in hybrid),suv
+Mid-size 7-passenger,Rivian R1S (electric),suv
+Subcompact,Buick Encore,suv
+Subcompact,Buick Encore GX,suv
+Subcompact,Buick Envista,suv
+Subcompact,Chevrolet Bolt EUV (electric),suv
+Subcompact,Chevrolet TrailBlazer,suv
+Subcompact,Chevrolet Trax,suv
+Subcompact,Dodge Hornet,suv
+Subcompact,Fiat 500X,suv
+Subcompact,Ford EcoSport,suv
+Subcompact,Honda HR-V,suv
+Subcompact,Hyundai Kona,suv
+Subcompact,Hyundai Venue,suv
+Subcompact,Jeep Renegade,suv
+Subcompact,Kia Seltos,suv
+Subcompact,Kia Soul,suv
+Subcompact,Mazda CX-3,suv
+Subcompact,Mazda CX-30,suv
+Subcompact,Mini Cooper Countryman,suv
+Subcompact,Mini Cooper Countryman PHEV,suv
+Subcompact,Mini Cooper Paceman,suv
+Subcompact,Mitsubishi Eclipse Cross,suv
+Subcompact,Mitsubishi Outlander Sport,suv
+Subcompact,Nissan Juke,suv
+Subcompact,Nissan Kicks,suv
+Subcompact,Nissan Rogue Sport,suv
+Subcompact,Subaru Crosstrek,suv
+Subcompact,Subaru Crosstrek PHEV,suv
+Subcompact,Subaru XV Crosstrek,suv
+Subcompact,Subaru XV Crosstrek Hybrid,suv
+Subcompact,Toyota C-HR,suv
+Subcompact,Toyota Matrix,suv
+Subcompact,Volkswagen Taos,suv
+Subcompact,Alfa Romeo Tonale,suv
+Subcompact,BMW X1,suv
+Subcompact,BMW X2,suv
+Subcompact,Cadillac XT4,suv
+Subcompact,Infiniti QX30,suv
+Subcompact,Lexus UX 200,suv
+Subcompact,Lexus UX 250 (hybrid),suv
+Subcompact,Mercedes-Benz EQB 250 (electric),suv
+Subcompact,Mercedes-Benz EQB 300 (electric),suv
+Subcompact,Mercedes-Benz EQB 350 (electric),suv
+Subcompact,Mercedes-Benz GLA250,suv
+Subcompact,Mercedes-Benz GLA35 AMG,suv
+Subcompact,Mercedes-Benz GLA45 AMG,suv
+Subcompact,Mercedes-Benz GLB250,suv
+Subcompact,Mercedes-Benz GLB35 AMG,suv
+Subcompact,Volvo C40 Recharge (electric),suv
+Subcompact,Volvo XC40,suv
+Subcompact,Volvo XC40 Recharge (electric),suv
+Compact,Honda Civic,coupe
+Compact,Honda CR-Z,coupe
+Compact,Kia Forte Koup,coupe
+Compact,Mini Cooper,coupe
+Compact,Nissan 370Z,coupe
+Compact,Nissan Z,coupe
+Compact,Scion FR-S,coupe
+Compact,Scion tC,coupe
+Compact,Smart Fortwo,coupe
+Compact,Subaru BRZ,coupe
+Compact,Toyota 86 (before 2021),coupe
+Compact,Toyota GR86,coupe
+Luxury,Audi A5,coupe
+Luxury,Audi TTS,coupe
+Luxury,BMW 128,coupe
+Luxury,BMW 228,coupe
+Luxury,BMW 230,coupe
+Luxury,BMW 428,coupe
+Luxury,BMW 430,coupe
+Luxury,BMW 435,coupe
+Luxury,BMW 440,coupe
+Luxury,BMW 640,coupe
+Luxury,BMW 650,coupe
+Luxury,BMW 840,coupe
+Luxury,Cadillac ATS,coupe
+Luxury,Cadillac CTS,coupe
+Luxury,Cadillac ELR,coupe
+Luxury,Hyundai Genesis,coupe
+Luxury,Infiniti Q60,coupe
+Luxury,Jaguar F-Type,coupe
+Luxury,Jaguar XK,coupe
+Luxury,Lexus RC 200t,coupe
+Luxury,Lexus RC 300,coupe
+Luxury,Mercedes-Benz C300,coupe
+Luxury,Mercedes-Benz CL550,coupe
+Luxury,Mercedes-Benz CL600,coupe
+Luxury,Porsche 718 Cayman,coupe
+Luxury,Porsche Cayman (before 2017),coupe
+Mainstream,Chevrolet Camaro,coupe
+Mainstream,Dodge Challenger,coupe
+Mainstream,Ford Mustang,coupe
+Mainstream,Honda Accord,coupe
+Performance,Audi RS5,coupe
+Performance,Audi S5,coupe
+Performance,BMW M235,coupe
+Performance,BMW M240,coupe
+Performance,BMW M4,coupe
+Performance,BMW M440,coupe
+Performance,BMW M8,coupe
+Performance,BMW M850,coupe
+Performance,Chevrolet Corvette,coupe
+Performance,Lexus RC F,coupe
+Performance,Toyota Supra,coupe
+Compact,Chevrolet Cruze,hatchback
+Compact,Dodge Caliber,hatchback
+Compact,Ford Focus,hatchback
+Compact,Honda Civic,hatchback
+Compact,Hyundai Elantra,hatchback
+Compact,Hyundai Veloster,hatchback
+Compact,Kia Forte5,hatchback
+Compact,Kia Niro,hatchback
+Compact,Kia Soul,hatchback
+Compact,Mazda Mazda3,hatchback
+Compact,Nissan Cube,hatchback
+Compact,Scion iM,hatchback
+Compact,Scion xB,hatchback
+Compact,Subaru Impreza,hatchback
+Compact,Toyota Corolla Hatchback,hatchback
+Compact,Toyota GR Corolla,hatchback
+Compact,Toyota Matrix,hatchback
+Compact,Volkswagen Golf,hatchback
+Compact,Volkswagen GTI,hatchback
+Subcompact,Chevrolet Spark,hatchback
+Subcompact,Fiat 500,hatchback
+Subcompact,Honda Fit,hatchback
+Subcompact,Hyundai Accent,hatchback
+Subcompact,Kia Rio5,hatchback
+Subcompact,Mazda Mazda2,hatchback
+Subcompact,Mini Cooper Clubman,hatchback
+Subcompact,Mini Cooper Hardtop,hatchback
+Subcompact,Mitsubishi Mirage,hatchback
+Subcompact,Nissan Versa Note,hatchback
+Subcompact,Scion iQ,hatchback
+Subcompact,Scion XD,hatchback
+Subcompact,Toyota Yaris,hatchback
+Subcompact,Volvo C30,hatchback
+Compact,Buick Verano,sedan
+Compact,Chevrolet Cobalt,sedan
+Compact,Chevrolet Cruze,sedan
+Compact,Chevrolet Cruze Limited,sedan
+Compact,Chevrolet Sonic,sedan
+Compact,Chevrolet Volt (plug-in hybrid),sedan
+Compact,Dodge Dart,sedan
+Compact,Ford Fiesta,sedan
+Compact,Ford Focus,sedan
+Compact,Ford Focus Electric,sedan
+Compact,Honda Civic,sedan
+Compact,Honda Civic Hybrid,sedan
+Compact,Honda Insight,sedan
+Compact,Hyundai Accent,sedan
+Compact,Hyundai Elantra,sedan
+Compact,Hyundai Elantra Hybrid,sedan
+Compact,Kia Forte,sedan
+Compact,Kia Rio,sedan
+Compact,Mazda Mazda3,sedan
+Compact,Mitsubishi Lancer,sedan
+Compact,Mitsubishi Mirage G4,sedan
+Compact,Nissan Sentra,sedan
+Compact,Nissan Versa,sedan
+Compact,Polestar Polestar 2 (electric),sedan
+Compact,Subaru Impreza,sedan
+Compact,Subaru WRX,sedan
+Compact,Toyota Corolla,sedan
+Compact,Toyota Corolla Hybrid,sedan
+Compact,Toyota Yaris iA,sedan
+Compact,Volkswagen GLI,sedan
+Compact,Volkswagen Jetta,sedan
+Compact,Volkswagen Jetta GLI,sedan
+Compact,Volkswagen Jetta Hybrid,sedan
+Compact,Acura ILX,sedan
+Compact,Acura ILX Hybrid,sedan
+Compact,Acura Integra,sedan
+Compact,Audi A3,sedan
+Compact,Audi A4,sedan
+Compact,Audi e-tron GT (electric),sedan
+Compact,Audi RS3,sedan
+Compact,Audi S3,sedan
+Compact,Audi S4,sedan
+Compact,BMW 228,sedan
+Compact,BMW 320,sedan
+Compact,BMW 328,sedan
+Compact,BMW 330,sedan
+Compact,BMW 330 Plug In Hybrid,sedan
+Compact,BMW 335,sedan
+Compact,BMW 340,sedan
+Compact,BMW Activehybrid 3,sedan
+Compact,BMW i4 (electric),sedan
+Compact,BMW M3,sedan
+Compact,BMW M340,sedan
+Compact,Cadillac ATS,sedan
+Compact,Cadillac CT4,sedan
+Compact,Cadillac CT4-V,sedan
+Compact,Genesis G70,sedan
+Compact,Infiniti G25,sedan
+Compact,Infiniti G37,sedan
+Compact,Infiniti Q40,sedan
+Compact,Infiniti Q50,sedan
+Compact,Infiniti Q50 Hybrid,sedan
+Compact,Jaguar XE,sedan
+Compact,Lexus HS 250h (hybrid),sedan
+Compact,Lexus IS 200t,sedan
+Compact,Lexus IS 250,sedan
+Compact,Lexus IS 300,sedan
+Compact,Lexus IS 350,sedan
+Compact,Lexus IS 500,sedan
+Compact,Lexus IS F,sedan
+Compact,Mercedes-Benz A220,sedan
+Compact,Mercedes-Benz A35 AMG,sedan
+Compact,Mercedes-Benz C250,sedan
+Compact,Mercedes-Benz C300,sedan
+Compact,Mercedes-Benz C300e,sedan
+Compact,Mercedes-Benz C350,sedan
+Compact,Mercedes-Benz C350e Plug-In Hybrid,sedan
+Compact,Mercedes-Benz C400,sedan
+Compact,Mercedes-Benz C43 AMG,sedan
+Compact,Mercedes-Benz C450 AMG,sedan
+Compact,Mercedes-Benz C63 AMG,sedan
+Compact,Mercedes-Benz CLA250,sedan
+Compact,Mercedes-Benz CLA35 AMG,sedan
+Compact,Mercedes-Benz CLA45 AMG,sedan
+Compact,Porsche Taycan (electric),sedan
+Compact,Tesla Model 3,sedan
+Compact,Volvo S60,sedan
+Compact,Volvo S60 Plug-in Hybrid,sedan
+Compact,Volvo S60 Recharge (2021+),sedan
+Large,Buick LaCrosse,sedan
+Large,Buick Lucerne,sedan
+Large,Chevrolet Caprice,sedan
+Large,Chevrolet Impala,sedan
+Large,Chevrolet Impala Limited,sedan
+Large,Chevrolet SS,sedan
+Large,Chrysler 300,sedan
+Large,Dodge Charger,sedan
+Large,Ford Taurus,sedan
+Large,Hyundai Azera,sedan
+Large,Hyundai Equus,sedan
+Large,Kia Cadenza,sedan
+Large,Kia K900,sedan
+Large,Kia Stinger,sedan
+Large,Nissan Maxima,sedan
+Large,Toyota Avalon,sedan
+Large,Toyota Avalon Hybrid,sedan
+Large,Toyota Crown,sedan
+Large,Toyota Mirai,sedan
+Large,Acura RL,sedan
+Large,Acura RLX,sedan
+Large,Acura RLX Hybrid,sedan
+Large,Audi A7,sedan
+Large,Audi A7 Plug-in Hybrid,sedan
+Large,Audi A8,sedan
+Large,Audi A8 Plug-in Hybrid,sedan
+Large,Audi RS7,sedan
+Large,Audi S7,sedan
+Large,Audi S8,sedan
+Large,BMW 740,sedan
+Large,BMW 740 Plug In Hybrid,sedan
+Large,BMW 745 Plug in Hybrid,sedan
+Large,BMW 750,sedan
+Large,BMW 750 Hybrid,sedan
+Large,BMW 760,sedan
+Large,BMW 840 Gran Coupe,sedan
+Large,BMW ActiveHybrid 7,sedan
+Large,BMW Alpina B7,sedan
+Large,BMW B8 Gran Coupe,sedan
+Large,BMW i7 (electric),sedan
+Large,BMW M760,sedan
+Large,BMW M850 Gran Coupe,sedan
+Large,Cadillac CT6,sedan
+Large,Cadillac CT6 Plug in Hybrid,sedan
+Large,Cadillac DTS,sedan
+Large,Cadillac XTS,sedan
+Large,Genesis G90,sedan
+Large,Jaguar XJ,sedan
+Large,Jaguar XJR,sedan
+Large,Lexus LS 460,sedan
+Large,Lexus LS 500,sedan
+Large,Lexus LS 500h (hybrid),sedan
+Large,Lexus LS 600h (hybrid),sedan
+Large,Lincoln Continental,sedan
+Large,Lincoln MKS,sedan
+Large,Lucid Air (electric),sedan
+Large,Mercedes-Benz AMG GT,sedan
+Large,Mercedes-Benz EQS 450+ (electric),sedan
+Large,Mercedes-Benz EQS AMG (electric),sedan
+Large,Mercedes-Benz Maybach S560,sedan
+Large,Mercedes-Benz Maybach S600,sedan
+Large,Mercedes-Benz Maybach S650,sedan
+Large,Mercedes-Benz S350,sedan
+Large,Mercedes-Benz S400 Hybrid,sedan
+Large,Mercedes-Benz S450,sedan
+Large,Mercedes-Benz S500,sedan
+Large,Mercedes-Benz S550,sedan
+Large,Mercedes-Benz S550 Plug-in Hybrid,sedan
+Large,Mercedes-Benz S560,sedan
+Large,Mercedes-Benz S560e Plug-In Hybrid,sedan
+Large,Mercedes-Benz S580,sedan
+Large,Mercedes-Benz S600,sedan
+Large,Mercedes-Benz S63 AMG,sedan
+Large,Mercedes-Benz S65 AMG,sedan
+Large,Porsche Panamera,sedan
+Large,Porsche Panamera E- PHEV,sedan
+Large,Porsche Panamera Hybrid,sedan
+Large,Tesla Model S,sedan
+Large,Volvo S80,sedan
+Large,Volvo S90,sedan
+Large,Volvo S90 Plug-In Hybrid,sedan
+Large,Volvo S90 Recharge (2021+),sedan
+Mid-size,Buick Regal,sedan
+Mid-size,Buick Regal Sportback,sedan
+Mid-size,Chevrolet Malibu,sedan
+Mid-size,Chevrolet Malibu Hybrid,sedan
+Mid-size,Chevrolet Malibu Limited,sedan
+Mid-size,Chrysler 200,sedan
+Mid-size,Dodge Avenger,sedan
+Mid-size,Ford Fusion,sedan
+Mid-size,Ford Fusion Energi (plug-in hybrid),sedan
+Mid-size,Ford Fusion Hybrid,sedan
+Mid-size,Honda Accord,sedan
+Mid-size,Honda Accord Hybrid,sedan
+Mid-size,Honda Clarity Electric,sedan
+Mid-size,Honda Clarity Fuel Cell,sedan
+Mid-size,Honda Clarity Plug in Hybrid,sedan
+Mid-size,Hyundai Genesis (before 2017),sedan
+Mid-size,Hyundai Ioniq 6 (electric),sedan
+Mid-size,Hyundai Sonata,sedan
+Mid-size,Hyundai Sonata Hybrid,sedan
+Mid-size,Hyundai Sonata Plug-In Hybrid,sedan
+Mid-size,Kia K5,sedan
+Mid-size,Kia Optima,sedan
+Mid-size,Kia Optima Hybrid,sedan
+Mid-size,Kia Optima Plug in Hybrid,sedan
+Mid-size,Mazda Mazda6,sedan
+Mid-size,Nissan Altima,sedan
+Mid-size,Nissan Altima Hybrid,sedan
+Mid-size,Subaru Legacy,sedan
+Mid-size,Toyota Camry,sedan
+Mid-size,Toyota Camry Hybrid,sedan
+Mid-size,Volkswagen Arteon,sedan
+Mid-size,Volkswagen CC,sedan
+Mid-size,Volkswagen Passat,sedan
+Mid-size,Acura TL,sedan
+Mid-size,Acura TLX,sedan
+Mid-size,Acura TSX,sedan
+Mid-size,Alfa Romeo Giulia,sedan
+Mid-size,Audi A5,sedan
+Mid-size,Audi A5 Sportback,sedan
+Mid-size,Audi A6,sedan
+Mid-size,Audi RS5,sedan
+Mid-size,Audi S5 Sportback,sedan
+Mid-size,Audi S6,sedan
+Mid-size,BMW 528,sedan
+Mid-size,BMW 530,sedan
+Mid-size,BMW 530e Plug-in Hybrid,sedan
+Mid-size,BMW 535,sedan
+Mid-size,BMW 540,sedan
+Mid-size,BMW 550,sedan
+Mid-size,BMW 640,sedan
+Mid-size,BMW 650,sedan
+Mid-size,BMW Activehybrid 5,sedan
+Mid-size,BMW Alpina B6,sedan
+Mid-size,BMW M5,sedan
+Mid-size,BMW M550,sedan
+Mid-size,BMW M6 Gran Coupe,sedan
+Mid-size,Cadillac CT5,sedan
+Mid-size,Cadillac CT5-V,sedan
+Mid-size,Cadillac CTS,sedan
+Mid-size,Cadillac CTS-V,sedan
+Mid-size,Genesis Electrified G80,sedan
+Mid-size,Genesis G80,sedan
+Mid-size,Infiniti M35,sedan
+Mid-size,Infiniti M35H,sedan
+Mid-size,Infiniti M37,sedan
+Mid-size,Infiniti M45,sedan
+Mid-size,Infiniti M56,sedan
+Mid-size,Infiniti Q70,sedan
+Mid-size,Infiniti Q70 Hybrid,sedan
+Mid-size,Jaguar XF,sedan
+Mid-size,Lexus ES 250,sedan
+Mid-size,Lexus ES 300h (hybrid),sedan
+Mid-size,Lexus ES 350,sedan
+Mid-size,Lexus GS 200t,sedan
+Mid-size,Lexus GS 250h (hybrid),sedan
+Mid-size,Lexus GS 300,sedan
+Mid-size,Lexus GS 350,sedan
+Mid-size,Lexus GS 460,sedan
+Mid-size,Lexus GS F,sedan
+Mid-size,Lincoln MKZ,sedan
+Mid-size,Lincoln MKZ Hybrid,sedan
+Mid-size,Mercedes-Benz CLS400,sedan
+Mid-size,Mercedes-Benz CLS450,sedan
+Mid-size,Mercedes-Benz CLS53 AMG,sedan
+Mid-size,Mercedes-Benz CLS550,sedan
+Mid-size,Mercedes-Benz CLS63 AMG,sedan
+Mid-size,Mercedes-Benz E250,sedan
+Mid-size,Mercedes-Benz E300,sedan
+Mid-size,Mercedes-Benz E350,sedan
+Mid-size,Mercedes-Benz E400,sedan
+Mid-size,Mercedes-Benz E400 Hybrid,sedan
+Mid-size,Mercedes-Benz E43 AMG,sedan
+Mid-size,Mercedes-Benz E450,sedan
+Mid-size,Mercedes-Benz E53 AMG,sedan
+Mid-size,Mercedes-Benz E550,sedan
+Mid-size,Mercedes-Benz E63 AMG,sedan
+Mid-size,Mercedes-Benz EQE 350 (electric),sedan
+Mid-size,Mercedes-Benz EQE AMG (electric),sedan
+Compact,Chevrolet Colorado,truck
+Compact,Ford Ranger,truck
+Compact,GMC Canyon,truck
+Compact,Honda Ridgeline,truck
+Compact,Hyundai Santa Cruz,truck
+Compact,Jeep Gladiator,truck
+Compact,Nissan Frontier,truck
+Compact,Rivian R1T (electric),truck
+Compact,Toyota Tacoma,truck
+Full-size,Chevrolet Avalanche,truck
+Full-size,Chevrolet Silverado 1500,truck
+Full-size,Ford F-150 Lightning (electric),truck
+Full-size,Ford F150,truck
+Full-size,GMC Hummer Pickup (electric),truck
+Full-size,GMC Sierra 1500,truck
+Full-size,Nissan Titan,truck
+Full-size,Ram 1500,truck
+Full-size,Ram 1500 Classic,truck
+Full-size,Toyota Tundra,truck
+Full-size,Chevrolet Silverado 2500,truck
+Full-size,Chevrolet Silverado 3500,truck
+Full-size,Ford F250,truck
+Full-size,GMC Sierra 2500,truck
+Full-size,GMC Sierra 3500,truck
+Full-size,Nissan Titan XD,truck
+Full-size,Ram 2500,truck
+Full-size,Ram 3500,truck
+Wagon models,Acura TSX,wagon
+Wagon models,BMW 328,wagon
+Wagon models,BMW 330,wagon
+Wagon models,Fiat 500L,wagon
+Wagon models,Ford C-Max,wagon
+Wagon models,Volvo V60,wagon
+Wagon models,Volvo V90,wagon
+Wagon models,Audi A4 Allroad,wagon
+Wagon models,Audi A6 Allroad,wagon
+Wagon models,Audi Allroad,wagon
+Wagon models,Buick Regal Tourx,wagon
+Wagon models,Subaru Outback,wagon
+Wagon models,Volkswagen Golf Alltrack,wagon
+Wagon models,Volvo V60 Cross Country,wagon
+Wagon models,Volvo V60 Plug-in Hybrid (before 2021),wagon
+Wagon models,Volvo V60 Recharge (plug-in hybrid),wagon
+Wagon models,Volvo V90 Cross Country,wagon
+Wagon models,Volvo XC70,wagon
