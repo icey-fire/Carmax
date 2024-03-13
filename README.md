@@ -1,4 +1,4 @@
-# [IP] Car Price Estimation based on Carmax Listings
+# [IP] Price Estimation of Used Cars based on CarMax Listings
 
 > Key Words: Web Scraping (Selenium, BeautifulSoup), Regex, Random Forest
 
